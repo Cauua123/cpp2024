@@ -1,0 +1,18 @@
+﻿  MathLib.cpp
+C:\Users\Cauua\source\repos\MathLib\MathLib\MathLib.cpp(11,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/MathLib.cpp")
+  
+C:\Users\Cauua\source\repos\MathLib\MathLib\MathLib.cpp(25,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/MathLib.cpp")
+  
+C:\Users\Cauua\source\repos\MathLib\MathLib\MathLib.cpp(51,16): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/MathLib.cpp")
+  
+C:\Users\Cauua\source\repos\MathLib\MathLib\MathLib.cpp(61,22): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\Cauua\source\repos\MathLib\MathLib\MathLib.cpp(61,22): warning C4244:         with
+C:\Users\Cauua\source\repos\MathLib\MathLib\MathLib.cpp(61,22): warning C4244:         [
+C:\Users\Cauua\source\repos\MathLib\MathLib\MathLib.cpp(61,22): warning C4244:             _Ty=float
+C:\Users\Cauua\source\repos\MathLib\MathLib\MathLib.cpp(61,22): warning C4244:         ]
+  (компиляция исходного файла "/MathLib.cpp")
+  
+  MathLib.vcxproj -> C:\Users\Cauua\source\repos\MathLib\x64\Debug\MathLib.dll
